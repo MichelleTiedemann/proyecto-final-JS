@@ -1,0 +1,238 @@
+/* Reset y Configuración Global */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Arial", sans-serif;
+}
+
+/* TITULOS */
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  color: #5e3a84;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  margin-top: 1.875rem;
+  margin-left: 0.625rem;
+}
+
+body h1 {
+  margin-top: 2.1875rem;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.8em;
+  color: #5e3a84;
+}
+
+h3 {
+  color: #895cb7;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 30px;
+}
+
+.producto h3 {
+  font-size: 1.2em;
+  color: #5e3a84;
+}
+
+.producto p {
+  color: #5e3a84;
+  font-size: 1rem;
+  margin-bottom: 15px;
+}
+
+/* ENCABEZADO */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #2e1a46;
+  height: 120px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.cepage {
+  color: #ffffff;
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+/* BOTONES */
+header a {
+  text-decoration: none;
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 5px;
+  color: #000;
+}
+
+.botonInicio {
+  text-decoration: none;
+  font-family: "Arial", sans-serif;
+  background-color: #6a42a1;
+  border: 2px solid rgb(133, 91, 185);
+  color: #d3c7e0;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin-left: 50px;
+}
+
+.botonInicio:hover {
+  background-color: #3a2257;
+  color: white;
+}
+
+.botonInicio a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.checkout-button {
+  background-color: #6a42a1;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  margin: 20px auto;
+  width: 200px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: block;
+}
+
+.checkout-button:hover {
+  background-color: #895cb7;
+  transform: scale(1.05);
+}
+
+.producto button {
+  background-color: #2e1a46;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.producto button:hover {
+  background-color: #5d3b7e;
+}
+
+/* INPUTS Y FORMULARIOS */
+.container-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+input[type="text"],
+input[type="email"] {
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #000;
+  width: 300px;
+}
+
+#contact-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+#contact-form button {
+  width: 200px;
+  padding: 10px 20px;
+  background-color: rgb(59, 25, 112);
+  color: white;
+  border: none;
+  outline: none;
+}
+
+/* PRODUCTOS */
+#products-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+
+.producto {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  text-align: center;
+  width: 250px;
+  height: auto;
+}
+
+.producto:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.producto img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.producto .price {
+  font-size: 1.2rem;
+  color: #e74c3c;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* CARRITO */
+#container-cart {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 20px;
+}
+
+.container-btns {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 10px;
+}

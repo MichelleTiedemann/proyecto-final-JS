@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "category": "Limpiador",
+    "description": "Seborregulador y purificante. ",
+    "image": "https://labcepage.com/wp-content/uploads/2022/03/fin-MEDIA-Acneique-x-450g-scaled-2000x2000.jpg",
+    "price": 32.555,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "ACNEIQUÉ Gel"
+  },
+  {
+    "id": 2,
+    "category": "Limpiador",
+    "description": "Solución micelar limpiadora y desmaquillante",
+    "image": "https://labcepage.com/wp-content/uploads/2013/06/FIN-en-MEDIA-Render-Acneique-H2O-FRONTAL-scaled-e1646850614490.jpg",
+    "price": 18.256,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "ACNEIQUÉ H2O"
+  },
+  {
+    "id": 3,
+    "category": "Serums",
+    "description": "Seborregulador, peeling diario y antioxidante.",
+    "image": "https://labcepage.com/wp-content/uploads/2024/01/fin-PNG-en-MEDIA-Acneique-Serum-CERRADO-Z-1772x2000.png",
+    "price": 25.123,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "ACNEIQUÉ Sérum"
+  },
+  {
+    "id": 4,
+    "category": "Serums",
+    "description": "Promueve una piel radiante y un tono uniforme.",
+    "image": "https://labcepage.com/wp-content/uploads/2023/06/fin-calidad-MEDIA-Clarite-TX-Serum-pipeta-e1685631108429.png",
+    "price": 35.788,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "CLARITÉ TX"
+  },
+  {
+    "id": 5,
+    "category": "Serums",
+    "description": "Sérum facial de ácido glicólico al 10% a pH 3,5. Tiene efecto peeling.",
+    "image": "https://labcepage.com/wp-content/uploads/2022/03/FIN-en-BAJA-Render-Renov-GLICOLICO-pipeta-e1646849958666.png",
+    "price": 25.163,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "RENOVATEURS Glicólico 10"
+  },
+  {
+    "id": 6,
+    "category": "Serums",
+    "description": "Brinda un cuidado diario ideal para todo tipo de piel.",
+    "image": "https://labcepage.com/wp-content/uploads/2021/07/Hydrafirm-HA-1-2-2000x2000.png",
+    "price": 23.461,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "HYDRAFIRM HA"
+  },
+  {
+    "id": 7,
+    "category": "Serums",
+    "description": "Sérum facial de ácido mandélico al 10% a pH 3,5. Tiene efecto peeling. ",
+    "image": "https://labcepage.com/wp-content/uploads/2022/03/FIN-en-BAJA-Render-Renov-MANDELICO-pomo-e1646849583811.png",
+    "price": 25.331,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "RENOVATEURS Mandélico 10"
+  },
+  {
+    "id": 8,
+    "category": "Serums",
+    "description": "Reduce la profundidad de las arrugas existentes.",
+    "image": "https://labcepage.com/wp-content/uploads/2019/12/fin-en-BAJA-Hydrafirm-AR-x-30g-pomo-1-e1653405639388.png",
+    "price": 25.925,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "HYDRAFIRM AR"
+  },
+  {
+    "id": 9,
+    "category": "Serums",
+    "description": "Rellena y repara arrugas y líneas de expresión. Efecto lifting inmediato y duradero.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/06/Tenseur-HA-B5-1.png",
+    "price": 30.43,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "TENSEUR HA B5"
+  },
+  {
+    "id": 10,
+    "category": "Emulsion",
+    "description": "Actúa como ultra hidratante y preventivo del fotoenvejecimiento cutáneo.",
+    "image": "https://labcepage.com/wp-content/uploads/2021/07/Hydrafirm-UV-1-2000x2000.png",
+    "price": 19.549,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "HYDRAFIRM UV"
+  },
+  {
+    "id": 11,
+    "category": "Crema",
+    "description": "Tiene efecto peeling. Exfolia e hidrata la superﬁcie de la piel.",
+    "image": "https://labcepage.com/wp-content/uploads/2023/04/fin-calidad-media-Render-Renovateurs-Glico%E2%95%A0ulico-frasco-e1681226226490.png",
+    "price": 27.888,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "RENOVATEURS Glicólico 5"
+  },
+  {
+    "id": 12,
+    "category": "Crema",
+    "description": "Hidrata en profundidad, calma y alivia la tirantez de la piel. ",
+    "image": "https://labcepage.com/wp-content/uploads/2022/03/fin-MEDIA-Repaphenol-x-450g-scaled-2000x2000.jpg",
+    "price": 20.189,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "REPÁPHÉNOL Corps"
+  },
+  {
+    "id": 13,
+    "category": "Crema",
+    "description": "Regula la producción sebácea en pieles con tendencia al acné. ",
+    "image": "https://labcepage.com/wp-content/uploads/2019/12/en-MEDIA-Acneique-Crema-Gel-pomo--e1683654852160-2000x2000.png",
+    "price": 25.311,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "ACNEIQUÉ Crema Gel"
+  },
+  {
+    "id": 14,
+    "category": "Emulsion",
+    "description": "Alivia la piel sensible e irritada.Reduce la sensibilidad y mejora el aspecto general de la piel.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/12/Atophen-Fluide-1-e1608671519483.png",
+    "price": 29.412,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "ATOPHÉN Fluide"
+  },
+  {
+    "id": 15,
+    "category": "Crema",
+    "description": "Combate manchas de la piel.",
+    "image": "https://labcepage.com/wp-content/uploads/2019/12/FIN-baja-Render-CLARITE-POMO-sin-fondo-1-e1646849316258.png",
+    "price": 33.235,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "CLARITÉ"
+  },
+  {
+    "id": 16,
+    "category": "Spray",
+    "description": "Spray sin enjuague. Coadyuvante en el tratamiento de la caída del cabello.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/07/fin-MEDIA-Capillaire-max-frasco-e1681823417941.png",
+    "price": 29.845,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "CAPILLAIRE Max Loción Anticaída"
+  },
+  {
+    "id": 17,
+    "category": "ProtectorSolar",
+    "description": "Garantiza una protección óptima. Previene el envejecimiento prematuro provocado por la acción de los rayos solares.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/06/Filtres-Fluide-50-1.png",
+    "price": 28.294,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "FILTRES Fluide 50+"
+  },
+  {
+    "id": 18,
+    "category": "ProtectorSolar",
+    "description": "Garantiza una protección óptima con color.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/06/Filtres-Fluide-Color-50-1.png",
+    "price": 25.456,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "FILTRES Fluide Color 50+"
+  },
+  {
+    "id": 19,
+    "category": "Uñas",
+    "description": "Fortalecedor ungeal para uñas frágiles y quebradizas.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/06/Ongles-1.png",
+    "price": 22.845,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "ONGLES"
+  },
+  {
+    "id": 20,
+    "category": "Crema",
+    "description": "Crema reafirmante anti-estrías.",
+    "image": "https://labcepage.com/wp-content/uploads/2021/08/en-MEDIA-Cicanol-Stries-pomo--scaled-e1647280997104-600x663.jpg",
+    "price": 19.099,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "CICANOL Stries"
+  },
+  {
+    "id": 21,
+    "category": "ProtectorSolar",
+    "description": "Garantiza una protección óptima. Acabado mate (anti-brillo). Filtros UVB/UVA.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/06/Filtres-Fluide-Toucher-Sec-50-1.png",
+    "price": 28.299,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "FILTRES Fluide Toucher Sec 50+"
+  },
+  {
+    "id": 22,
+    "category": "Contorno",
+    "description": "Crema despigmentante para el contorno de ojos.",
+    "image": "https://labcepage.com/wp-content/uploads/2020/12/Cepage-Clarite%CC%81-Contorno-de-ojos-fondo-Blanco-1.png",
+    "price": 29.459,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "CLARITÉ Contorno de Ojos"
+  },
+  {
+    "id": 23,
+    "category": "Gel",
+    "description": "Gel reparador epidérmico para piel lesionada, irritada y agrietada.",
+    "image": "https://labcepage.com/wp-content/uploads/2019/12/FIN-alta-Render-CICANOL-QD-POMO-fondo-blanco-1-scaled-e1646854206714.jpg",
+    "price": 21.435,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "CICANOL QD"
+  },
+  {
+    "id": 24,
+    "category": "Balsamo",
+    "description": "Bálsamo hidratante y reparador para labios secos y agrietados.",
+    "image": "https://labcepage.com/wp-content/uploads/2019/12/FIN-alta-Render-TOPHEN-LEVRES-POMO-fondo-blanco-2-scaled-e1647288812276.jpg",
+    "price": 11.222,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    },
+    "title": "ATOPHÉN Levres"
+  }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <h1>Formulario de finalizacion de compra</h1>
+    <h3>
+      Debe colocar sus datos en el formulario y enviarlo para que le enviemos el
+      link de pago y se finalice la compra.
+    </h3>
+    <form id="contact-form">
+      <input type="text" placeholder="Nombre" id="nombre" required />
+      <input type="text" placeholder="Telefono" id="telefono" required />
+      <input type="email" placeholder="Email" id="email" required />
+      <input type="text" placeholder="Mensaje" id="mensaje" required />
+      <button type="submit">Enviar</button>
+    </form>
+
+    <script
+      type="text/javascript"
+      src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"
+    ></script>
+    <script type="text/javascript">
+      (function () {
+        emailjs.init({
+          publicKey: "amLXYz5rqt1k98G3Q",
+        });
+      })();
+    </script>
+    <script src="./emailSend.js"></script>
+  </body>
+</html>
